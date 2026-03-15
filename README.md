@@ -1,5 +1,5 @@
-Strategic Product Placement Analysis – Flask Website
-Overview
+## Strategic Product Placement Analysis – Flask Website
+## Overview
 
 This repository contains the Flask-based website developed for the Strategic Product Placement Analysis project.
 
@@ -7,7 +7,7 @@ The website displays Tableau dashboards and story visualizations to analyze how 
 
 The dashboards are embedded from Tableau Public and presented through an interactive web interface.
 
-Features
+## Features
 
 Flask web application
 
@@ -19,7 +19,7 @@ Responsive website design
 
 Simple navigation (Home, About, Dashboard, Story, Contact)
 
-Technologies Used
+## Technologies Used
 
 Python
 
